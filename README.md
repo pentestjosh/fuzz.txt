@@ -1,4 +1,4 @@
-# fuzz.txt
+# fuzz.txt (used for dirb etc)
 
 There's Nothing so Permanent as Temporary
 
